@@ -49,9 +49,14 @@ if ( ! empty( $tabs ) ) : ?>
         <?php
         $url = $_SERVER['REQUEST_URI'];
         $tokens = explode('/', $url);
-        $productId = $tokens[sizeof($tokens)-2]; ?>
+        $productId = $tokens[sizeof($tokens)-2];
+
+        $cookie_user = (new WC_Session_Handler())->get_session_cookie();
+        $customer_id = $cookie_user[0];
+        ?>
+
         <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description" style="display: none;">
-            <iframe src="http://edit.theprintingbox.com/postcard-edit?productId=<?php echo $productId;  ?>" width="1008" height="500" frameborder="0" scrolling="no">
+            <iframe src="http://edit.theprintingbox.com/postcard-edit?productId=<?=$productId?>&customerId=<?=$customer_id?>" width="1008" height="500" frameborder="0" scrolling="no">
             </iframe>
         </div>
 	</div>

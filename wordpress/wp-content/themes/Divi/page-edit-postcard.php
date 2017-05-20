@@ -39,9 +39,12 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() );
 				?>
 
 				<?php endif; ?>
-
+                    <?php
+                    $cookie_user = (new WC_Session_Handler())->get_session_cookie();
+                    $customer_id = $cookie_user[0];
+                    ?>
 					<div class="entry-content">
-                        <iframe src="http://edit.theprintingbox.com/postcard-edit?productId=<?php echo($_GET['productId']); ?>" width="1008" height="500" frameborder="0" scrolling="no">
+                        <iframe src="http://edit.theprintingbox.com/postcard-edit?productId=<?=$_GET['productId']?>&customerId=<?=$customer_id?>" width="1008" height="500" frameborder="0" scrolling="no">
                         </iframe>
 					</div> <!-- .entry-content -->
 

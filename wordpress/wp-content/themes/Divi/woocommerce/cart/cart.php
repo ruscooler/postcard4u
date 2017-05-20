@@ -68,11 +68,14 @@ do_action( 'woocommerce_before_cart' ); ?>
 							<?php
 								$thumbnail = apply_filters( 'woocommerce_cart_item_thumbnail', $_product->get_image(), $cart_item, $cart_item_key );
 
+                                $cookie_user = (new WC_Session_Handler())->get_session_cookie();
+                                $customer_id = $cookie_user[0];
+
 								if ( ! $product_permalink ) {
 									echo $thumbnail;
 								} else {
 //									printf( '<a href="%s">%s</a>', esc_url( $product_permalink ), $thumbnail );
-									echo '<a href="http://edit.theprintingbox.com/uploads/'. $_product->get_sku() .'.jpeg" target="_blank">'. $thumbnail .'</a>';
+									echo '<a href="http://edit.theprintingbox.com/uploads/'. $_product->get_sku() . '_' . $customer_id .'.jpeg" >'. $thumbnail .'</a>';
 								}
 							?>
 						</td>

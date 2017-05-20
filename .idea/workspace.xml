@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d2fd78-1efa-4001-8d4b-59ccb83b5019" name="Default" comment="" />
+    <list default="true" id="39d2fd78-1efa-4001-8d4b-59ccb83b5019" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-config.php" afterPath="$PROJECT_DIR$/wordpress/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/related.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/related.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/woocommerce/cart/cart.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/woocommerce/cart/cart.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,77 +24,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="page-edit-postcard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="331">
+              <caret line="2050" column="1" lean-forward="true" selection-start-line="2050" selection-start-column="1" selection-end-line="2050" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/header.php">
+      <file leaf-file-name="related.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/related.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="32" column="111" lean-forward="false" selection-start-line="32" selection-start-column="111" selection-end-line="32" selection-end-column="111" />
-              <folding>
-                <marker date="1495048343974" expanded="true" signature="3214:3241" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="32" column="64" lean-forward="false" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="65" />
-              <folding>
-                <element signature="e#6#650#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simple.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="43" column="67" lean-forward="false" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-scroll.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/js/jquery/jquery-scroll.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single-product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -101,27 +54,44 @@
       <find>arti</find>
       <find>$tabs['description']</find>
       <find>jquery-migrate</find>
+      <find>$customer_id</find>
+      <find>photo</find>
+      <find>woocommerce_single_product_summary</find>
+      <find>box</find>
+      <find>getGalleryItems</find>
+      <find>woocommerce-product-gallery__image</find>
+      <find>zoom_enabled</find>
+      <find>.product .related h2</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wordpress/wp-config.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/content-single-product.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/global/quantity-input.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-template-blank.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/edit-postcard.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-admin/includes/class-wp-screen.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/functions.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-includes/script-loader.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-includes/functions.wp-scripts.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/header.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-includes/js/jquery/jquery-scroll.js" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/photoswipe.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart.js" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js" />
+        <option value="$PROJECT_DIR$/wordpress/wp-config.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/woocommerce/cart/cart.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/related.php" />
       </list>
     </option>
   </component>
@@ -133,10 +103,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
     <option name="y" value="18" />
-    <option name="width" value="1366" />
-    <option name="height" value="703" />
+    <option name="width" value="1920" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -168,18 +137,122 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postcard_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../edit_postcards_admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/ribragimov/Diploma/postcard_project/wordpress/wp-content/plugins/woocommerce/templates/single-product.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/cart" />
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/Divi/woocommerce/cart" />
       <recent name="$PROJECT_DIR$/wordpress/wp-includes/js/jquery" />
       <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/Divi" />
     </key>
@@ -577,28 +650,31 @@
       <workItem from="1494952213004" duration="8429000" />
       <workItem from="1495007128123" duration="313000" />
       <workItem from="1495032867195" duration="1252000" />
-      <workItem from="1495046621761" duration="4925000" />
+      <workItem from="1495046621761" duration="8110000" />
+      <workItem from="1495136653122" duration="1947000" />
+      <workItem from="1495207981068" duration="14000" />
+      <workItem from="1495281899211" duration="8528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19588000" />
+    <option name="totallyTimeSpent" value="33262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="18" width="1366" height="703" extended-state="6" />
+    <frame x="0" y="18" width="1920" height="1015" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22204472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.072013095" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07150596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -619,252 +695,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="55" selection-end-column="14" />
-          <folding>
-            <element signature="e#6#650#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="59" column="109" lean-forward="false" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="109" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1494970868622" expanded="true" signature="3231:3262" ph="..." />
-            <marker date="1494970868622" expanded="false" signature="3477:3535" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="3536:3562" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8106:8272" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8142:8262" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8771:9306" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8842:9292" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="8940:9286" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="211214:211227" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341908:342209" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341979:342200" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342589:342704" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342616:342695" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342664:342685" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="349453:349483" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354136:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354163:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354208:354234" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="55" selection-end-column="14" />
-          <folding>
-            <element signature="e#6#650#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="59" column="109" lean-forward="false" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="109" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1494970868622" expanded="true" signature="3231:3262" ph="..." />
-            <marker date="1494970868622" expanded="false" signature="3477:3535" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="3536:3562" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8106:8272" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8142:8262" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8771:9306" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8842:9292" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="8940:9286" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="211214:211227" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341908:342209" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341979:342200" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342589:342704" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342616:342695" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342664:342685" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="349453:349483" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354136:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354163:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354208:354234" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="55" selection-end-column="14" />
-          <folding>
-            <element signature="e#6#650#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="59" column="109" lean-forward="true" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="109" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1494970868622" expanded="true" signature="3231:3262" ph="..." />
-            <marker date="1494970868622" expanded="false" signature="3477:3535" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="3536:3562" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8106:8272" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8142:8262" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8771:9306" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8842:9292" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="8940:9286" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="211214:211227" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341908:342209" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341979:342200" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342589:342704" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342616:342695" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342664:342685" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="349453:349483" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354136:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354163:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354208:354234" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/global/quantity-input.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation-add-to-cart-button.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/global/quantity-input.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -886,27 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="77" column="36" lean-forward="false" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/content-single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/external.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="482" column="28" lean-forward="false" selection-start-line="482" selection-start-column="28" selection-end-line="482" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -945,22 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/meta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/photoswipe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/review.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -972,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="833" column="32" lean-forward="false" selection-start-line="833" selection-start-column="32" selection-end-line="833" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,26 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="872" column="46" lean-forward="false" selection-start-line="872" selection-start-column="46" selection-end-line="872" selection-end-column="46" />
-          <folding>
-            <marker date="1494775006182" expanded="true" signature="45268:45346" ph="SELECT term_... $" />
-            <marker date="1494775006182" expanded="true" signature="56025:56038" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/functions.wp-scripts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="218" column="52" lean-forward="false" selection-start-line="218" selection-start-column="38" selection-end-line="218" selection-end-column="52" />
-          <folding>
-            <marker date="1495047770561" expanded="true" signature="3529:3533" ph="&lt;" />
-            <marker date="1495047770561" expanded="true" signature="3539:3543" ph="&gt;" />
-            <marker date="1495047770561" expanded="true" signature="9504:9552" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1010,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1704">
           <caret line="307" column="65" lean-forward="false" selection-start-line="307" selection-start-column="57" selection-end-line="307" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,34 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="8754" column="10" lean-forward="true" selection-start-line="8754" selection-start-column="10" selection-end-line="8754" selection-end-column="10" />
-          <folding>
-            <marker date="1494970868622" expanded="true" signature="3231:3262" ph="..." />
-            <marker date="1494970868622" expanded="false" signature="3477:3535" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="3536:3562" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8106:8272" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8142:8262" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8771:9306" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="8842:9292" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="8940:9286" ph="{...}" />
-            <marker date="1494970868622" expanded="true" signature="211214:211227" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341908:342209" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="341979:342200" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342589:342704" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342616:342695" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="342664:342685" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="349453:349483" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354136:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354163:354234" ph="..." />
-            <marker date="1494970868622" expanded="true" signature="354208:354234" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,23 +810,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="32" column="64" lean-forward="false" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="65" />
-          <folding>
-            <element signature="e#6#650#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="254" column="71" lean-forward="false" selection-start-line="254" selection-start-column="59" selection-end-line="254" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="576">
           <caret line="32" column="111" lean-forward="false" selection-start-line="32" selection-start-column="111" selection-end-line="32" selection-end-column="111" />
           <folding>
             <marker date="1495048343974" expanded="true" signature="3214:3241" ph="..." />
@@ -1079,26 +839,294 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/page-edit-postcard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="828">
+          <caret line="46" column="144" lean-forward="false" selection-start-line="46" selection-start-column="81" selection-end-line="46" selection-end-column="144" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <element signature="e#6#650#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/grouped.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/external.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/product-attributes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/price.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3062">
+          <caret line="2500" column="1" lean-forward="true" selection-start-line="2500" selection-start-column="1" selection-end-line="2500" selection-end-column="1" />
+          <folding>
+            <marker date="1494775006182" expanded="true" signature="45268:45346" ph="SELECT term_... $" />
+            <marker date="1494775006182" expanded="true" signature="56025:56038" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/photoswipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/cart/photoswipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="103" lean-forward="true" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="103" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="43" column="67" lean-forward="false" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+        <state relative-caret-position="738">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/cart/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#form#0;n#!!top" expanded="true" />
+            <marker date="1494775006214" expanded="true" signature="2561:2568" ph="×" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/plugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="137">
+          <caret line="420" column="23" lean-forward="false" selection-start-line="420" selection-start-column="19" selection-end-line="420" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/wc-conditional-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="77" column="23" lean-forward="false" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="614" column="9" lean-forward="false" selection-start-line="614" selection-start-column="9" selection-end-line="614" selection-end-column="9" />
+          <folding>
+            <marker date="1472613702000" expanded="true" signature="21660:21797" ph="SELECT post_... ${$wpdb-&gt;postmeta}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="2589" column="25" lean-forward="false" selection-start-line="2589" selection-start-column="16" selection-end-line="2589" selection-end-column="25" />
+          <folding>
+            <marker date="1479685590000" expanded="true" signature="28836:28849" ph="..." />
+            <marker date="1479685590000" expanded="true" signature="55477:55659" ph="SELECT YEAR(... " />
+            <marker date="1479685590000" expanded="true" signature="56551:56686" ph="SELECT YEAR(... " />
+            <marker date="1479685590000" expanded="true" signature="57451:57695" ph="SELECT YEAR(... " />
+            <marker date="1479685590000" expanded="true" signature="58666:58904" ph="SELECT DISTI... " />
+            <marker date="1479685590000" expanded="true" signature="60308:60366" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
+            <marker date="1479685590000" expanded="true" signature="62669:62764" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
+            <marker date="1479685590000" expanded="true" signature="64002:64216" ph="SELECT MONTH... " />
+            <marker date="1479685590000" expanded="true" signature="64245:64476" ph="SELECT MONTH... " />
+            <marker date="1479685590000" expanded="true" signature="64652:64793" ph="..." />
+            <marker date="1479685590000" expanded="true" signature="64787:64793" ph="..." />
+            <marker date="1479685590000" expanded="true" signature="65238:65244" ph="..." />
+            <marker date="1479685590000" expanded="true" signature="66047:66053" ph="..." />
+            <marker date="1479685590000" expanded="true" signature="66146:66381" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/content-single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="60" column="67" lean-forward="true" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/single-product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2931">
+          <caret line="202" column="24" lean-forward="false" selection-start-line="202" selection-start-column="17" selection-end-line="202" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="694" column="44" lean-forward="false" selection-start-line="694" selection-start-column="29" selection-end-line="694" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1495289650828" expanded="true" signature="50:14237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="79" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="6804" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="897" column="9" lean-forward="false" selection-start-line="897" selection-start-column="9" selection-end-line="897" selection-end-column="9" />
+          <folding>
+            <marker date="1494775006186" expanded="true" signature="37761:37769" ph="..." />
+            <marker date="1494775006186" expanded="true" signature="41700:41769" ph="SELECT COUNT... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/woocommerce/cart/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="74" column="52" lean-forward="true" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
+          <folding>
+            <element signature="e#6#628#0#PHP" expanded="true" />
+            <marker date="1495289471611" expanded="true" signature="840:859" ph="..." />
+            <marker date="1495289471611" expanded="true" signature="2541:2548" ph="×" />
+            <marker date="1495289471611" expanded="true" signature="5764:5916" ph="..." />
+            <marker date="1495289471611" expanded="true" signature="5801:5916" ph="..." />
+            <marker date="1495289471611" expanded="true" signature="5873:5916" ph="..." />
+            <marker date="1495289471611" expanded="true" signature="6743:6762" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8151">
+          <caret line="54" column="57" lean-forward="false" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/product-image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/Divi/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="2050" column="1" lean-forward="true" selection-start-line="2050" selection-start-column="1" selection-end-line="2050" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/woocommerce/templates/single-product/related.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
           <folding />
         </state>
       </provider>

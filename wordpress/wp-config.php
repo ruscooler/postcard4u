@@ -87,3 +87,7 @@ if ( !defined('ABSPATH') )
 /** Инициализирует переменные WordPress и подключает файлы. */
 require_once(ABSPATH . 'wp-settings.php');
 define('FS_METHOD', 'direct');
+
+/** добавлено для отключения автоматического обновления */
+//define( 'AUTOMATIC_UPDATER_DISABLED', true );
+//define( 'DISALLOW_FILE_MODS', true );
