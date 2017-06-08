@@ -254,6 +254,8 @@ class WC_Addons_Gateway_Simplify_Commerce extends WC_Gateway_Simplify_Commerce {
 	 * @return array
 	 */
 	public function process_payment( $order_id ) {
+/*  изменено для работы оформления заказа */
+        echo "stoop"; exit();
 		$cart_token = isset( $_POST['simplify_token'] ) ? wc_clean( $_POST['simplify_token'] ) : '';
 		$order      = wc_get_order( $order_id );
 

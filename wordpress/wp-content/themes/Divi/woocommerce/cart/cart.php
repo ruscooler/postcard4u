@@ -75,7 +75,7 @@ do_action( 'woocommerce_before_cart' ); ?>
 									echo $thumbnail;
 								} else {
 //									printf( '<a href="%s">%s</a>', esc_url( $product_permalink ), $thumbnail );
-									echo '<a href="http://edit.theprintingbox.com/uploads/'. $_product->get_sku() . '_' . $customer_id .'.jpeg" >'. $thumbnail .'</a>';
+									echo '<a href="http://edit.theprintingbox.com/uploads/'. $_product->get_sku() . '_' . COOKIEHASH .'.jpeg" >'. $thumbnail .'</a>';
 								}
 							?>
 						</td>
